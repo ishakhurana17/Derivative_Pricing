@@ -1,2 +1,2 @@
 # Derivative_Pricing
- - Used Monte-Carlo & Black Scholes methods for pricing options in complex situations.
+ Used Monte-Carlo & Black Scholes methods for pricing options in complex situations where the payoff is path dependent (e.g. Lookback options, Asian options and Spread options) and options where the payoff is dependent on a basket of underlying assets (rather than just a single asset). Developed various functions to calculate price of various derivatives with almost 100% accuracy.
